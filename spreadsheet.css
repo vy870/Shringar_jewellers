@@ -1,5 +1,5 @@
 #menu{
-    background-color: blue;
+    background-color: rgb(255,153,153);
     width: 100%;
     margin-top: 0px;
     top: 0px;
@@ -40,7 +40,7 @@ h8{
     padding-right: 25px;
 }
 #about{
-    background-color: blue; 
+    background-color: rgb(255,153,153); 
     }
 .kqn{
     border-radius: 99cm;
