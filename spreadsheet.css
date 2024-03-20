@@ -50,8 +50,8 @@ h8{
 
 #map{
     padding-left: auto;
-    height:auto;
-    width:auto;
+    height:1000px;
+    width:100%;
 }
 li{
     list-style-type: none; }
